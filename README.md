@@ -14,7 +14,7 @@ A responsive personal portfolio website built to showcase my projects, skills, a
 
 ✉️ Contact Form: Integrated email or form submission setup
 
-🌗 Dark Mode: (optional, if implemented)
+
 
 🛠️ Tech Stack
 
