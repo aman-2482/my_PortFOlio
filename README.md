@@ -10,9 +10,7 @@ A responsive personal portfolio website built to showcase my projects, skills, a
 
 ⚡ Fast Loading: Built with performance best practices
 
-🧩 Projects Section: Highlights major apps and GitHub repositories
-
-✉️ Contact Form: Integrated email or form submission setup
+🧩 Projects Section: Highlights major apps
 
 
 
