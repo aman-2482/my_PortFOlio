@@ -1,6 +1,4 @@
-// Copyright 2014 The Flutter Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
+
 
 if (!_flutter) {
   var _flutter = {};
@@ -32,10 +30,7 @@ _flutter.loader = null;
    * `debugName` is used to compose a legible error message.
    *
    * If `duration` is < 0, the original `promise` is returned unchanged.
-   * @param {Promise} promise
-   * @param {number} duration
-   * @param {string} debugName
-   * @returns {Promise} a wrapped promise.
+   *
    */
   async function timeout(promise, duration, debugName) {
     if (duration < 0) {
